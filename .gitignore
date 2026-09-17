@@ -12,3 +12,8 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+.env
+.venv/
+*.sqlite3
+*.db
